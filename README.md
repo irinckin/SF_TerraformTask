@@ -26,7 +26,6 @@
 | [yandex_vpc_network.network](https://registry.terraform.io/providers/yandex-cloud/yandex/0.61.0/docs/resources/vpc_network) | resource |
 | [yandex_vpc_subnet.net-a](https://registry.terraform.io/providers/yandex-cloud/yandex/0.61.0/docs/resources/vpc_subnet) | resource |
 | [yandex_vpc_subnet.net-b](https://registry.terraform.io/providers/yandex-cloud/yandex/0.61.0/docs/resources/vpc_subnet) | resource |
-| [yandex_lb_network_load_balancer.nginx-load-balancer](https://registry.terraform.io/providers/yandex-cloud/yandex/0.61.0/docs/data-sources/lb_network_load_balancer) | data source |
 
 ## Inputs
 

@@ -101,7 +101,3 @@ resource "yandex_lb_network_load_balancer" "nginx-load-balancer" {
     }
   }
 }
-
-data "yandex_lb_network_load_balancer" "nginx-load-balancer" {
-  network_load_balancer_id = "nginx-load-balancer"
-}
